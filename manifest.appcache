@@ -1,0 +1,30 @@
+CACHE MANIFEST
+# KivmbgqKXpFkWt7shHtNhej3HOk=
+
+CACHE:
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\404.html
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\apple-touch-icon-114x114-precomposed.png
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\apple-touch-icon-144x144-precomposed.png
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\apple-touch-icon-57x57-precomposed.png
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\apple-touch-icon-72x72-precomposed.png
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\apple-touch-icon-precomposed.png
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\apple-touch-icon.png
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\crossdomain.xml
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\css\app.css
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\favicon.ico
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\humans.txt
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\icon_128.png
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\index.html
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\install.html
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\js\app.js
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\js\lib\modernizr-2.5.3.min.js
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\js\lib\require.js
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\manifest.json
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\manifest.webapp
+c:\Users\dmose\t\mozilla-WebGameStub-1e70219\www-built\README.textile
+
+# catch-all for anything else
+NETWORK:
+*
+http://*
+https://*
